@@ -1,4 +1,4 @@
-package GUItest;
+package Hotel_Era.GUItest;
 /**
  * @author: fkmog
  
